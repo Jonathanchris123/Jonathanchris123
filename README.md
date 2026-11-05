@@ -33,8 +33,8 @@ Projects coming soon.
 
 ## 💼 Professional Experience
 
-- **Statistics Indonesia (BPS)** — Statistical Analysis & Data Validation
-- **Bank Negara Indonesia (BNI)** — Mortgage Data Analysis & Performance Monitoring
+- **Badan Pusat Statistik RI** — Statistical Analysis & Data Validation
+- **Bank Negara Indonesia BNI** — Mortgage Data Analysis & Performance Monitoring
 
 ## 📫 Connect With Me
 
