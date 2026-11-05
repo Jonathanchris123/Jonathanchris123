@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Jonathan Christian Simbolon 👋
 
-<!--
-**Jonathanchris123/Jonathanchris123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mathematics Graduate | Aspiring Data Professional
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Mathematics graduate from Institut Teknologi Sepuluh Nopember (ITS), Indonesia, with interests in Data Analytics, Data Science, and Data Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Bachelor's Degree in Mathematics — Institut Teknologi Sepuluh Nopember (ITS)
+- 📊 Experience in statistical analysis, data validation, and business performance monitoring
+- 🏢 Previous experience at Badan Pusat Statistik RI and Bank Negara Indonesia (BNI)
+- 📈 Interested in transforming complex data into actionable insights by combining quantitative methods with domain knowledge
+- 🌱 Currently developing my technical skills and building data projects
+
+## 🛠️ Technical Skills
+
+**Programming & Data:** Python, SQL, R, Excel
+
+**Statistics & Analytics:** Statistical Analysis, Data Validation, Data Visualization, Synthetic Control Method
+
+**Currently Exploring:** Power BI, Machine Learning, Data Engineering
+
+## 📂 Portfolio Projects
+
+### 📊 Data Analytics
+Projects coming soon.
+
+### 🤖 Data Science
+Projects coming soon.
+
+### ⚙️ Data Engineering
+Projects coming soon.
+
+## 💼 Professional Experience
+
+- **Statistics Indonesia (BPS)** — Statistical Analysis & Data Validation
+- **Bank Negara Indonesia (BNI)** — Mortgage Data Analysis & Performance Monitoring
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/jonathan-christian-s/)
+- [GitHub](https://github.com/Jonathanchris123)
+
+---
+
+*This portfolio is a work in progress. Projects and documentation will be added progressively.*
