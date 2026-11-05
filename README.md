@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Mathematics graduate from Institut Teknologi
 
 **Programming & Data:** Python, SQL, R, Excel
 
-**Statistics & Analytics:** Statistical Analysis, Data Validation, Data Visualization, Synthetic Control Method
+**Statistics & Analytics:** Statistical Analysis, Data Validation, Data Visualization
 
 **Currently Exploring:** Power BI, Machine Learning, Data Engineering
 
